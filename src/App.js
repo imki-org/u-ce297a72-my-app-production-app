@@ -9,6 +9,7 @@ function App() {
         <p></p>
         <p className="info">
           Edit <code>src/App.js</code> and save to reload.
+          This code is updated for test!
         </p>
       </header>
     </div>
