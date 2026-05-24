@@ -8,7 +8,7 @@ function App() {
         <h1>App</h1>
         <p></p>
         <p className="info">
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload. Is this showing?
           This code is updated for test!
         </p>
       </header>
